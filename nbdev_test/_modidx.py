@@ -32,4 +32,5 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'tst_flags': 'notest',
                 'user': 'hgrif',
                 'version': '0.0.1'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': 'https://hgrif.github.io/nbdev_test.core.html#foo'}}}
+  'syms': { 'nbdev_test.core': { 'nbdev_test.core.foo': 'https://hgrif.github.io/nbdev_test.core.html#foo',
+                                 'nbdev_test.core.say_hello': 'https://hgrif.github.io/nbdev_test.core.html#say_hello'}}}
